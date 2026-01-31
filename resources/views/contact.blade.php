@@ -133,6 +133,8 @@
                                 <div class="flex-1">
                                     <h3 class="font-bold text-lg mb-1">Phone</h3>
                                     <a href="tel:0729095905" class="text-gray-600 hover:text-accent transition-colors">0729 095 905</a>
+                                                                                                    <a href="tel:0721138939" class="hover:text-white transition-colors">0721 138 939</a>
+
                                 </div>
                             </div>
                         </div>
